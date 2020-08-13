@@ -1,0 +1,248 @@
+/*header*/
+.heading{
+    margin-bottom: -12%;
+}
+.nacol{
+    background-color: #648CFF;
+    border-color: #648CFF;
+}
+.head{
+	background-color: #648CFF;
+}
+.headmargin{
+	margin: 0 auto;
+	width: 80%;
+}
+.navbar-default .navbar-brand {
+    margin-top: -15%;
+}
+.fun{
+	color: #FFFFFF;
+	font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+	padding-bottom: 30px;
+}
+.nice{
+	font-size: 145%;
+}
+.style{
+	margin-left: 13%;
+    font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.fontcolor{
+	color: #FFFFFF;
+    margin-left:40px;
+}
+.icon{
+	margin-left: 2%;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+@media only screen and (max-width: 600px){
+    .navbar-default .navbar-brand {
+    margin-top: -8%;
+    }
+	.style1{
+        margin-left: 23px!important;
+    }
+	.fun2{
+		margin-left: 13%!important;
+	}
+	.getin{
+		margin-top: 140px!important;
+	}
+	.bluein{
+		margin-top: -75%!important;
+        margin-left: 89%;
+	}
+    
+	.wave22{
+		width:151%!important;
+    }
+    .right{
+    	margin-left: 23%!important;
+    }
+    .inline-resp{
+        display: block!important;
+    }
+    .play{
+    	width: 64%!important;
+        margin-top: 12%!important;
+        margin-bottom: 14%!important;
+    }
+    .midhead1{
+    	margin-top: 33%!important;
+    }
+    .feat2{
+    	margin-bottom: 26%!important;
+    }
+    .into{
+    	margin-left: -62%!important;
+    }
+    .weather{
+        color: blue;
+        margin-top: -11%;
+    }
+}
+.header{
+	background-color: #648CFF;
+	
+}
+.get{
+	margin-top: 203px;
+}
+.phonehead{
+	width: 64%;
+    margin-left: 5%;
+    margin-top: 24%;
+}
+.red{
+	width: 14%;
+}
+.blue{
+	width: 14%;
+    margin-top: 95%;
+}
+.wave1{
+    width: 166%;
+    margin-left: -33%;
+    margin-top: -17%;
+}
+.wave2{
+    margin-left: -34%;
+    width: 167%;
+    margin-top: -34%;
+}
+/*end header*/
+
+/*middle*/
+
+.mid{
+	background-color: #FFFFFF;
+}
+.sstext{
+	text-align: center;
+	font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+}
+.sshead{
+	color:#648CFF;
+	font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+}
+.ssline{
+	color: black;
+	font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+	font-size: 129%
+}
+.phone{
+	width: 65%;
+    margin-top: 17%;
+    margin-left: -5%;
+}
+.dot1{
+	width: 19%;
+    margin-left: 0%;
+    margin-top: 43%;
+}
+.dot2{
+	width: 24%;
+    margin-top: -175%;
+    margin-left: 77%;
+}
+
+.text{
+	margin-top: 15%;
+    margin-left: 15%;
+    font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+}
+.iconn{
+	margin-bottom: 6%;
+}
+.icon1{
+	margin-top: 4%;
+}
+.features{
+	color: black;
+	font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+
+}
+.featsize{
+	font-size: 132%;
+}
+.midhead{
+	margin-top: 12%;
+}
+.onlybottom{
+	margin-bottom: 7%;
+}
+.view{
+	margin-bottom: 20%;
+}
+.viewsize{
+	font-size: 163%;
+}
+.wid{
+	width: 91%;
+}
+/*end middle*/
+
+/*above footer*/
+.above{
+	padding: 5%;
+}
+.howhead{
+	font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+    color: #FFFFFF;
+
+}
+.how{
+    font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+    color: #FFFFFF;
+    margin-bottom: 12%;
+    margin-top: 10%;
+    font-size: 125%;
+}
+
+.rainy{
+	width: 30%;
+	opacity: 0.7;
+}
+.sunny{
+	width: 35%;
+}
+.cloudy{
+	width: 30%;
+	opacity: 0.7;
+}
+
+/*end*/
+
+/*footer*/
+.foot{
+	background-color: #353854;
+}
+.right{
+	margin-left: 40%;
+    font-size: 119%;
+    margin-top: 11%;
+}
+
+.inline{
+    display: inline-block;
+}
+.styling{
+    margin-left: 0px;
+    font-family: Ubuntu-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+/*end footer*/
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
